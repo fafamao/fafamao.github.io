@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "5G System Developer"
+title                    : "Bozhi's Homepage"
 title_separator          : "-"
 name                     : &name "Bozhi Bao"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bozhi Bao"
   avatar           : "profile.png"
-  bio              : "5G System Developer-radio system network prototype, verification and development."
+  bio              : "5G System Developer. Wireless system prototype, verification and development."
   location         : "Stockholm, Sweden"
   employer         : "Ericsson AB"
   pubmed           :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/bozhibao"
+  linkedin         : "bozhibao"
   orcid            :
   pinterest        :
   soundcloud       :
